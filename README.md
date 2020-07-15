@@ -1,4 +1,4 @@
-<img width="100" align="right" src="https://f4.bcbits.com/img/a0081159166_16.jpg" />
+<img width="100" align="left" src="https://f4.bcbits.com/img/a0081159166_16.jpg" />
 
 ### Hi there 👋
 
