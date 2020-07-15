@@ -1,3 +1,5 @@
+<img width="100" align="right" src="https://f4.bcbits.com/img/a0081159166_16.jpg" />
+
 ### Hi there 👋
 
 🎵 shameless promotion of my album [Autrax - Réchauffé](https://carpesonum.bandcamp.com/album/r-chauff) released on Carpe Sonum Records 🎶
