@@ -11,6 +11,6 @@ At github you can find:
 
 <img width="100" align="right" src="https://f4.bcbits.com/img/a0081159166_16.jpg" /> 
 
-In my spare time i love hiking and biking and producing electronic music. In 2017 i released my first full-length album of electronic music: 🎵 [Autrax - Réchauffé](https://carpesonum.bandcamp.com/album/r-chauff) on Carpe Sonum Records 🎶. My artist page is located at [autrax.de](https://www.autrax.de/).
+In my spare time i love hiking and biking and producing electronic music. In 2017 i released my first full-length album of electronic music: 🎵 [Autrax - Réchauffé](https://carpesonum.bandcamp.com/album/r-chauff) on Carpe Sonum Records 🎶. My artist page is located at [autrax.de/](https://www.autrax.de/).
 
 Feel free to get in touch if you think we might share interests ... 
