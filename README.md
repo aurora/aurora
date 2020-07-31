@@ -1,9 +1,16 @@
-<img width="100" align="left" src="https://f4.bcbits.com/img/a0081159166_16.jpg" /> 
-
 ### Hi! 👋
 
-I am Harald – *coder and computer enthusiast*, [*electronic musician*](https://www.autrax.de/), *vintage computing geek*
-and [*addicted to UNIX*](https://www.unixaddict.org/). In my spare time i love hiking and biking. Feel free to get in touch
-if you think we might share interests ... 
+I am Harald – *coder and computer enthusiast*, *electronic musician*, *vintage computing geek*
+and *addicted to UNIX*.
 
-🎵 shameless promotion of my album [Autrax - Réchauffé](https://carpesonum.bandcamp.com/album/r-chauff) released on Carpe Sonum Records 🎶
+At github you can find:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;my open-source projects [github.com/aurora/](https://github.com/aurora/)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;my experimental php framework [octris.org/](https://www.octris.org/)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;my retro computing stuff [unixaddict.org/](https://www.unixaddict.org/)<br />
+
+In my spare time i love hiking and biking and producing electronic music. In 2017 i released my first full-length album of electronic music: 🎵 [Autrax - Réchauffé](https://carpesonum.bandcamp.com/album/r-chauff) on Carpe Sonum Records 🎶. My artist page is located at [autrax.de](https://www.autrax.de/).
+
+<img width="100" align="right" src="https://f4.bcbits.com/img/a0081159166_16.jpg" /> 
+
+Feel free to get in touch if you think we might share interests ... 
