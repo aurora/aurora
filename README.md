@@ -14,3 +14,5 @@ At github you can find:
 In my spare time i love hiking and biking and producing electronic music. In 2017 i released my first full-length album of electronic music: 🎵 [Autrax - Réchauffé](https://carpesonum.bandcamp.com/album/r-chauff) on Carpe Sonum Records 🎶. My artist page is located at [autrax.de/](https://www.autrax.de/).
 
 Feel free to get in touch if you think we might share interests ... 
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aurora&show_icons=true" /></div>
