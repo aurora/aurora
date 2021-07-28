@@ -17,4 +17,4 @@ Feel free to get in touch if you think we might share interests ...
 
 <br />
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aurora&show_icons=true" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aurora&show_icons=true&count_private=true" /></div>
