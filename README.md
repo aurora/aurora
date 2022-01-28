@@ -18,8 +18,12 @@ Feel free to get in touch if you think we might share interests ...
 <br />
 
 <table><tr><td align="center" width="55%">
-  ![aurora's github stats](https://github-readme-stats.vercel.app/api?username=aurora&count_private=true&show_icons=true)
+  
+![aurora's github stats](https://github-readme-stats.vercel.app/api?username=aurora&count_private=true&show_icons=true)
+
 </td><td align="center" width="45%">
-  ![aurora's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aurora&layout=compact)
+
+![aurora's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aurora&layout=compact)
+
 </td></tr></table>
   
