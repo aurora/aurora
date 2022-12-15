@@ -6,7 +6,7 @@ and *addicted to UNIX*.
 At github you can find:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;my open-source projects [github.com/aurora/](https://github.com/aurora/)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;my archived php related projects [github.com/aurora-php/](github.com/aurora-php/)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;my archived php related projects [github.com/aurora-php/](https://github.com/aurora-php/)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;my retro computing stuff [unixaddict.org/](https://www.unixaddict.org/)<br />
 
 <img width="100" align="right" src="https://f4.bcbits.com/img/a0081159166_16.jpg" /> 
