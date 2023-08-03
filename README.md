@@ -3,7 +3,7 @@
 I am Harald – *coder and computer enthusiast*, *electronic musician*, *vintage computing geek*
 and *addicted to UNIX*.
 
-Ex-[scene](https://en.wikipedia.org/wiki/Demoscene)r (aurora ^ e-nergetic / devotion / skyjump-team), code and music.
+Ex-[scene](https://en.wikipedia.org/wiki/Demoscene)r 🡆 in the 90s I was active as a musician and coder in the pc-scene 🡆 aurora ^ e-nergetic / devotion [ch] / skyjump-team [it].
 
 At github you can find:
 
