@@ -21,7 +21,12 @@ Feel free to get in touch if you think we might share interests ...
 
 <br />
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aurora&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aurora&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aurora&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aurora&theme=github)
+<div align="center">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aurora&theme=swift)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aurora&theme=swift&exclude=viml,html,ooc)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aurora&theme=swift)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aurora&theme=swift)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aurora&theme=swift&utcOffset=1)
+
+</div>
