@@ -42,4 +42,4 @@ spacious sounds of 90s German electronic music.<br />
 
 ### vintage computing
 
-TI-99/4A • SGI Indy • HP C8000 • [unixaddict.org](unixaddict.org)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TI-99/4A • SGI Indy • HP C8000 • [unixaddict.org](unixaddict.org)
