@@ -27,9 +27,9 @@
 
 #### projects
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;my open-source projects [github.com/aurora/](https://github.com/aurora/)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;my archived php related projects [github.com/aurora-php/](https://github.com/aurora-php/)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;my retro computing stuff [unixaddict.org/](https://www.unixaddict.org/)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[github.com/aurora](github.com/aurora) &ndash; open source<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[github.com/aurora-php](github.com/aurora-php) &ndash; archived PHP projects<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[unixaddict.org](unixaddict.org) &ndash; vintage computing<br />
 
 ### music
 
