@@ -25,7 +25,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BASIC → ASM → Turbo Pascal → Perl → PHP/JavaScript → C# → F#
 
-#### projects
+### projects
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[github.com/aurora](github.com/aurora) &ndash; open source<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[github.com/aurora-php](github.com/aurora-php) &ndash; archived PHP projects<br />
