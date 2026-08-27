@@ -29,7 +29,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[github.com/aurora](github.com/aurora) &ndash; open source<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[github.com/aurora-php](github.com/aurora-php) &ndash; archived PHP projects<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[unixaddict.org](unixaddict.org) &ndash; vintage computing<br />
 
 ### music
 
@@ -40,3 +39,7 @@ Electronic music inspired by ambient,
 sequencer-driven electronica and the strange,
 spacious sounds of 90s German electronic music.<br />
 [autrax.de](https://www.autrax.de/) • [Bandcamp](https://carpesonum.bandcamp.com/album/r-chauff) • [Spotify](https://open.spotify.com/intl-de/album/2XXjYcT4PbKI2DReVrb15P?si=rYgB0uU7RliK3uISxKU0yA)
+
+### vintage computing
+
+TI-99/4A • SGI Indy • HP C8000 • [unixaddict.org](unixaddict.org)
