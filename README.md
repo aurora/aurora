@@ -1,34 +1,42 @@
-### Hi! 👋
+<picture width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img src="assets/header-light.svg" width="100%" alt="Harald / Aurora">
+</picture>
 
-I am Harald – *coder and computer enthusiast*, *electronic musician*, *vintage computing geek*
-and *addicted to UNIX*.
+<div align="center">
 
-Ex-[scene](https://en.wikipedia.org/wiki/Demoscene)r &#x1F81A;
- in the 90s I was active as a musician and coder in the pc-scene &#x1F81A;
- aurora ^ e-nergetic / devotion [ch] / skyjump-team [it].
+[demoscene](https://en.wikipedia.org/wiki/Demoscene) musician & coder •  90s • aurora ^ e-nergetic / devotion / skyjump-team
 
-I &#x1F496; shell-scripting (bash) and writing code in c#.
+</div>
 
-At github you can find:
+### code & tech
+
+<div align="center">
+
+<code>C#</code> • <code>F#</code> • <code>Bash</code> • <code>JavaScript</code> • <code>PHP</code> • <code>Lua</code><br />
+<code>.NET</code> • <code>ASP.NET Core</code> • <code>Blazor</code><br />
+<code>LLMs</code> • <code>Semantic Kernel</code><br />
+<code>Linux</code> • <code>UNIX</code> • <code>macOS</code> • <code>Docker</code> • <code>Kubernetes</code><br>
+<code>Distributed Systems</code> • <code>Event Sourcing</code><br />
+</div>
+
+### from BASIC to F#
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BASIC → ASM → Turbo Pascal → Perl → PHP/JavaScript → C# → F#
+
+#### projects
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;my open-source projects [github.com/aurora/](https://github.com/aurora/)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;my archived php related projects [github.com/aurora-php/](https://github.com/aurora-php/)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;my retro computing stuff [unixaddict.org/](https://www.unixaddict.org/)<br />
 
-<img width="100" align="right" src="https://f4.bcbits.com/img/a0081159166_16.jpg" /> 
+### music
 
-In my spare time i love hiking and biking and producing electronic music. In 2017 i released my first full-length album of electronic music: 🎵 [Autrax - Réchauffé](https://carpesonum.bandcamp.com/album/r-chauff) on Carpe Sonum Records 🎶. My artist page is located at [autrax.de/](https://www.autrax.de/).
+<img width="100" align="left" src="assets/rechauffe.png" />
 
-Feel free to get in touch if you think we might share interests ... 
-
-<br />
-
-<div align="center">
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aurora&theme=swift)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aurora&theme=swift&exclude=viml,html,ooc)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aurora&theme=swift)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aurora&theme=swift)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aurora&theme=swift&utcOffset=1)
-
-</div>
+<b>AUTRAX • Réchauffé</b> <i>(2017, Carpe Sonum Records)</i><br />
+Electronic music inspired by ambient,
+sequencer-driven electronica and the strange,
+spacious sounds of 90s German electronic music.<br />
+[autrax.de](https://www.autrax.de/) • [Bandcamp](https://carpesonum.bandcamp.com/album/r-chauff) • [Spotify](https://open.spotify.com/intl-de/album/2XXjYcT4PbKI2DReVrb15P?si=rYgB0uU7RliK3uISxKU0yA)
