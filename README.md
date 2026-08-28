@@ -32,7 +32,7 @@
 
 ### vintage computing
 
-<img src="assets/indent.svg" width="20" height="1" />TI-99/4A • SGI Indy • HP C8000 • [unixaddict.org](unixaddict.org)
+<img src="assets/indent.svg" width="20" height="1" />TI-99/4A • SGI Indy • HP C8000 • …and more → [unixaddict.org](unixaddict.org)
 
 ### music
 
