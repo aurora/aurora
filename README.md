@@ -23,23 +23,24 @@
 
 ### from BASIC to F#
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BASIC → ASM → Turbo Pascal → Perl → PHP/JavaScript → C# → F#
+<img src="assets/indent.svg" width="20" height="1" />BASIC → ASM → Turbo Pascal → Perl → PHP/JavaScript → C# → F#
 
 ### projects
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[github.com/aurora](github.com/aurora) &ndash; open source<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[github.com/aurora-php](github.com/aurora-php) &ndash; archived PHP projects<br />
+<img src="assets/indent.svg" width="20" height="1" />[github.com/aurora](github.com/aurora) &ndash; open source<br />
+<img src="assets/indent.svg" width="20" height="1" />[github.com/aurora-php](github.com/aurora-php) &ndash; archived PHP projects<br />
+
+### vintage computing
+
+<img src="assets/indent.svg" width="20" height="1" />TI-99/4A • SGI Indy • HP C8000 • [unixaddict.org](unixaddict.org)
 
 ### music
 
-<img width="100" align="left" src="assets/rechauffe.png" />
+<img width="150" height="130" align="left" src="assets/rechauffe.svg" />
 
 <b>AUTRAX • Réchauffé</b> <i>(2017, Carpe Sonum Records)</i><br />
 Electronic music inspired by ambient,
 sequencer-driven electronica and the strange,
 spacious sounds of 90s German electronic music.<br />
+
 [autrax.de](https://www.autrax.de/) • [Bandcamp](https://carpesonum.bandcamp.com/album/r-chauff) • [Spotify](https://open.spotify.com/intl-de/album/2XXjYcT4PbKI2DReVrb15P?si=rYgB0uU7RliK3uISxKU0yA)
-
-### vintage computing
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TI-99/4A • SGI Indy • HP C8000 • [unixaddict.org](unixaddict.org)
