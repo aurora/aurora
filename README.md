@@ -27,8 +27,8 @@
 
 ### projects
 
-<img src="assets/indent.svg" width="20" height="1" />[github.com/aurora](github.com/aurora) &ndash; open source<br />
-<img src="assets/indent.svg" width="20" height="1" />[github.com/aurora-php](github.com/aurora-php) &ndash; archived PHP projects<br />
+<img src="assets/indent.svg" width="20" height="1" />[github.com/aurora](https://github.com/aurora) &ndash; current projects<br />
+<img src="assets/indent.svg" width="20" height="1" />[github.com/aurora-php](https://github.com/aurora-php) &ndash; archived PHP projects<br />
 
 ### vintage computing
 
