@@ -23,7 +23,7 @@
 
 ### from BASIC to F#
 
-<img src="assets/indent.svg" width="20" height="1" />BASIC → ASM → Turbo Pascal → Perl → PHP/JavaScript → C# → F#
+<img src="assets/indent.svg" width="20" height="1" />BASIC → Assembly (TMS9900, 386) → Turbo Pascal → Perl → PHP/JavaScript → C# → F#
 
 ### projects
 
