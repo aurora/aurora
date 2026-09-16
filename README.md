@@ -27,7 +27,8 @@
 
 ### projects
 
-<img src="assets/indent.svg" width="20" height="1" />• [yjs-fsharp-demo](https://github.com/aurora/yjs-fsharp-demo) &mdash; A small, deliberately "clean" prototype that answers one question: **is Yjs a good fit for real-time collaboration in an F# stack?**
+<img src="assets/indent.svg" width="20" height="1" />• [yjs-fsharp-demo](https://github.com/aurora/yjs-fsharp-demo)<br />
+<img src="assets/indent.svg" width="30" height="1" />A small, deliberately "clean" prototype that answers one question: **is Yjs a good fit for real-time collaboration in an F# stack?**
 
 <img src="assets/indent.svg" width="20" height="1" />[github.com/aurora](https://github.com/aurora) &ndash; current projects<br />
 <img src="assets/indent.svg" width="20" height="1" />[github.com/aurora-php](https://github.com/aurora-php) &ndash; archived PHP projects<br />
