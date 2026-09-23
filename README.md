@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<code>C#</code> • <code>F#</code> • <code>Bash</code> • <code>JavaScript</code> • <code>PHP</code> • <code>Lua</code><br />
+<code>C#</code> • <code>F#</code> • <code>Python</code> • <code>Bash</code> • <code>JavaScript</code> • <code>PHP</code> • <code>Lua</code><br />
 <code>.NET</code> • <code>ASP.NET Core</code> • <code>Blazor</code><br />
 <code>LLMs</code> • <code>Semantic Kernel</code><br />
 <code>Linux</code> • <code>UNIX</code> • <code>macOS</code> • <code>Docker</code> • <code>Kubernetes</code><br>
