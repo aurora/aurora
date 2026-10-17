@@ -28,6 +28,7 @@
 
 ### current projects
 
+* [
 * [Papuma.Kernel](https://github.com/papumabiz/Papuma.Kernel) \
 Document-sourced CQRS kernel for .NET 10 - PostgreSQL for servers, SQLite for embedded/desktop, one shared model.
 * [yjs-fsharp-demo](https://github.com/aurora/yjs-fsharp-demo) \
