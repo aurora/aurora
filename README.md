@@ -16,9 +16,10 @@
 
 <code>C#</code> • <code>F#</code> • <code>Python</code> • <code>Bash</code> • <code>JavaScript</code> • <code>PHP</code> • <code>Lua</code><br />
 <code>.NET</code> • <code>ASP.NET Core</code> • <code>Blazor</code><br />
-<code>LLMs</code> • <code>Semantic Kernel</code><br />
+<code>LLMs</code> • <code>AI/Agents</code> • <code>Semantic Kernel</code><br />
+<code>Databases</code> • <code>Vector Databases</code> • <code>Search</code> • <code>Distributed Systems</code><br>
 <code>Linux</code> • <code>UNIX</code> • <code>macOS</code> • <code>Docker</code> • <code>Kubernetes</code><br>
-<code>Distributed Systems</code> • <code>Event Sourcing</code><br />
+<code>Event Sourcing</code> • <code>Event Modeling</code><br />
 </div>
 
 ### from BASIC to F#
