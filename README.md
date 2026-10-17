@@ -23,24 +23,21 @@
 
 ### from BASIC to F#
 
-<img src="assets/indent.svg" width="20" height="1" />BASIC → Assembly (TMS9900, 386) → Turbo Pascal → Perl → PHP/JavaScript → C# → F#
+&nbsp;&nbsp;&nbsp;BASIC → Assembly (TMS9900, 386) → Turbo Pascal → Perl → PHP/JavaScript → C# → F#
 
-### projects
+### current projects
 
-<img src="assets/indent.svg" width="20" height="1" />• [Papuma.Kernel](https://github.com/papumabiz/Papuma.Kernel)<br />
-<img src="assets/indent.svg" width="30" height="1" />Document-sourced CQRS kernel for .NET 10 - PostgreSQL for servers,<br />
-<img src="assets/indent.svg" width="30" height="1" />SQLite for embedded/desktop, one shared model.
+* [Papuma.Kernel](https://github.com/papumabiz/Papuma.Kernel) \
+Document-sourced CQRS kernel for .NET 10 - PostgreSQL for servers, SQLite for embedded/desktop, one shared model.
+* [yjs-fsharp-demo](https://github.com/aurora/yjs-fsharp-demo) \
+A small, deliberately "clean" prototype that answers one question: **is Yjs a good fit for real-time collaboration in an F# stack?**
 
-<img src="assets/indent.svg" width="20" height="1" />• [yjs-fsharp-demo](https://github.com/aurora/yjs-fsharp-demo)<br />
-<img src="assets/indent.svg" width="30" height="1" />A small, deliberately "clean" prototype that answers one question:<br />
-<img src="assets/indent.svg" width="30" height="1" />**is Yjs a good fit for real-time collaboration in an F# stack?**
-
-<img src="assets/indent.svg" width="20" height="1" />[github.com/aurora](https://github.com/aurora) &ndash; current projects<br />
-<img src="assets/indent.svg" width="20" height="1" />[github.com/aurora-php](https://github.com/aurora-php) &ndash; archived PHP projects<br />
+&nbsp;&nbsp;&nbsp;[github.com/aurora](https://github.com/aurora) &ndash; more current projects<br />
+&nbsp;&nbsp;&nbsp;[github.com/aurora-php](https://github.com/aurora-php) &ndash; archived PHP projects<br />
 
 ### vintage computing
 
-<img src="assets/indent.svg" width="20" height="1" />TI-99/4A • SGI Indy • HP C8000 • …and more → [unixaddict.org](unixaddict.org)
+&nbsp;&nbsp;&nbsp;TI-99/4A • SGI Indy • HP C8000 • …and more → [unixaddict.org](unixaddict.org)
 
 ### music
 
